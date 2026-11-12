@@ -1,0 +1,480 @@
+{
+  "version": 1,
+  "title": {
+    "ru": "Расписание",
+    "be": "Расклад"
+  },
+  "subtitle": {
+    "ru": "Школьная неделя",
+    "be": "Школьны тыдзень"
+  },
+  "days": [
+    {
+      "id": "mon",
+      "slots": [
+        {
+          "id": "mon-1",
+          "number": 1,
+          "start": "08:15",
+          "end": "09:00",
+          "className": "3в",
+          "classPlural": false,
+          "room": "218",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-2",
+          "number": 2,
+          "start": "09:15",
+          "end": "10:00",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-3",
+          "number": 3,
+          "start": "10:15",
+          "end": "11:00",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-4",
+          "number": 4,
+          "start": "11:15",
+          "end": "12:00",
+          "className": "2г",
+          "classPlural": false,
+          "room": "313",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-5",
+          "number": 5,
+          "start": "12:10",
+          "end": "12:55",
+          "className": "3г",
+          "classPlural": false,
+          "room": "315",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-6",
+          "number": 6,
+          "start": "13:15",
+          "end": "14:00",
+          "className": "4а",
+          "classPlural": false,
+          "room": "314",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-7",
+          "number": 7,
+          "start": "14:15",
+          "end": "15:00",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-8",
+          "number": 8,
+          "start": "15:15",
+          "end": "16:00",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-9",
+          "number": 9,
+          "start": "16:10",
+          "end": "16:55",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-10",
+          "number": 10,
+          "start": "17:05",
+          "end": "17:50",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "mon-11",
+          "number": 11,
+          "start": "18:00",
+          "end": "18:45",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "tue",
+      "slots": [
+        {
+          "id": "tue-6",
+          "number": 6,
+          "start": "13:25",
+          "end": "14:10",
+          "className": "2",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "tue-7",
+          "number": 7,
+          "start": "14:20",
+          "end": "15:05",
+          "className": "2",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "wed",
+      "slots": [
+        {
+          "id": "wed-6",
+          "number": 6,
+          "start": "13:50",
+          "end": "14:35",
+          "className": "1",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "wed-7",
+          "number": 7,
+          "start": "14:40",
+          "end": "15:25",
+          "className": "3",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "wed-8",
+          "number": 8,
+          "start": "15:35",
+          "end": "16:20",
+          "className": "3",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "thu",
+      "slots": [
+        {
+          "id": "thu-1",
+          "number": 1,
+          "start": "09:00",
+          "end": "09:45",
+          "className": "3б",
+          "classPlural": false,
+          "room": "313",
+          "roomNote": {
+            "ru": "другой кабинет",
+            "be": "іншы кабінет"
+          }
+        },
+        {
+          "id": "thu-2",
+          "number": 2,
+          "start": "10:00",
+          "end": "10:45",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-3",
+          "number": 3,
+          "start": "11:00",
+          "end": "11:45",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-4",
+          "number": 4,
+          "start": "11:55",
+          "end": "12:40",
+          "className": "2а",
+          "classPlural": false,
+          "room": "217",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-5",
+          "number": 5,
+          "start": "12:50",
+          "end": "13:35",
+          "className": "3а",
+          "classPlural": false,
+          "room": "215",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-6",
+          "number": 6,
+          "start": "13:55",
+          "end": "14:40",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-7",
+          "number": 7,
+          "start": "14:50",
+          "end": "15:35",
+          "className": "4г",
+          "classPlural": false,
+          "room": "316",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-8",
+          "number": 8,
+          "start": "15:50",
+          "end": "16:35",
+          "className": "4в",
+          "classPlural": false,
+          "room": "216",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-9",
+          "number": 9,
+          "start": "16:45",
+          "end": "17:30",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-10",
+          "number": 10,
+          "start": "17:40",
+          "end": "18:25",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "thu-11",
+          "number": 11,
+          "start": "18:35",
+          "end": "19:20",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "fri",
+      "slots": [
+        {
+          "id": "fri-1",
+          "number": 1,
+          "start": "08:15",
+          "end": "09:00",
+          "className": "4б",
+          "classPlural": false,
+          "room": "214",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-2",
+          "number": 2,
+          "start": "09:15",
+          "end": "10:00",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-3",
+          "number": 3,
+          "start": "10:15",
+          "end": "11:00",
+          "className": "2б",
+          "classPlural": false,
+          "room": "216",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-4",
+          "number": 4,
+          "start": "11:15",
+          "end": "12:00",
+          "className": "2в",
+          "classPlural": false,
+          "room": "314",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-5",
+          "number": 5,
+          "start": "12:10",
+          "end": "12:55",
+          "className": "",
+          "classPlural": false,
+          "room": "",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-6",
+          "number": 6,
+          "start": "13:15",
+          "end": "14:00",
+          "className": "4",
+          "classPlural": true,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        },
+        {
+          "id": "fri-7",
+          "number": 7,
+          "start": "14:10",
+          "end": "14:55",
+          "className": "4",
+          "classPlural": false,
+          "room": "111",
+          "roomNote": {
+            "ru": "",
+            "be": ""
+          }
+        }
+      ]
+    }
+  ]
+}
